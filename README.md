@@ -7,7 +7,8 @@ Your task for this deliverable is to research and implement the `Selection Sort`
 ## Getting Started
 
 * fork and clone this repo
-* touch a python file such as `sort.py` to do your work in
+* use `sort.py` for your Selection sort implementation
+* run `python3 sort.py` to check your work
 
 ## A little Background
 
