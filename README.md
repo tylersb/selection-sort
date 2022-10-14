@@ -19,7 +19,7 @@ Selection sort is a `in place` [comparison sort](https://en.wikipedia.org/wiki/C
 
 ## Research time!
 
-> When learning a new algorithm, it is best to do your best to understand it without immediately looking at source code. Why? It helps the learning process by working through the problem yourself. 
+> When learning a new algorithm, it is a good idea to do your best to understand it without immediately looking at source code. Why? It helps the learning process by working through the problem yourself. 
 
 Always try the following when learning a new algorithm to understand it most effectively:
 
