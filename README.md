@@ -26,7 +26,7 @@ Always try the following when learning a new algorithm to understand it most eff
 1. research and understand how the algorithm works
 	* Searching for visualizations of the algorithm can be a _BIG HELP_
 1. break the algorithm down into steps, 'rubber ducking' or talking through the algorithm aloud can be a great help
-1. reacreate the algorithmic steps in your physical space, for example use a deck of cards to execute each step of the alhgorithm
+1. recreate the algorithmic steps in your physical space, for example use a deck of cards to execute each step of the alhgorithm
 1. write the alogorithm out using pseudocode, try rubber ducking as you do this
 1. implement the pseudocode code you wrote and test your code, try to think of edge cases that you need to test and account for
 1. if something isn't working, loop back to step 1.
